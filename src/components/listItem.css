@@ -1,0 +1,9 @@
+.list-items {
+  background: white;
+  max-width: 375px;
+  height: 498px;
+  right: 155px;
+  top: calc(50% - 498px / 2 - 9px);
+  background: #ffffff;
+  border-radius: 24px;
+}
